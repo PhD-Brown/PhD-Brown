@@ -68,11 +68,20 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=PhD-Brown&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhD-Brown&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=PhD-Brown&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhD-Brown&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 
 </div>
+
+<!-- 🐍 Contribution Snake — active si le GitHub Action ci-dessous est configuré -->
+<!-- <div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PhD-Brown/PhD-Brown/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PhD-Brown/PhD-Brown/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/PhD-Brown/PhD-Brown/output/github-contribution-grid-snake.svg" />
+</picture>
+</div> -->
 
 ---
 
