@@ -1,0 +1,90 @@
+<svg width="100%" viewBox="0 0 680 190" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Alex Baker — Stellar Spectroscopy × Interpretable ML</title>
+<desc>Dark space banner with stellar absorption spectrum showing Ca II, Hβ, Mg b, Na D and Hα lines</desc>
+<defs>
+<style>
+@keyframes twk{0%,100%{opacity:.15}50%{opacity:1}}
+.s{animation:twk var(--d) ease-in-out infinite;animation-delay:var(--dl)}
+</style>
+<linearGradient id="sp" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#8B00FF"/>
+<stop offset="12%" stop-color="#4400EE"/>
+<stop offset="25%" stop-color="#0055FF"/>
+<stop offset="40%" stop-color="#00AAFF"/>
+<stop offset="52%" stop-color="#00FF88"/>
+<stop offset="62%" stop-color="#AAFF00"/>
+<stop offset="72%" stop-color="#FFD700"/>
+<stop offset="82%" stop-color="#FF6600"/>
+<stop offset="100%" stop-color="#CC0000"/>
+</linearGradient>
+<radialGradient id="bg" cx="50%" cy="40%" r="60%">
+<stop offset="0%" stop-color="#111827"/>
+<stop offset="100%" stop-color="#0d1117"/>
+</radialGradient>
+</defs>
+<rect width="680" height="190" fill="#0d1117"/>
+<rect width="680" height="190" fill="url(#bg)"/>
+<circle class="s" cx="18" cy="12" r="0.8" fill="#fff" style="--d:3.2s;--dl:-1.1s" opacity=".7"/>
+<circle class="s" cx="55" cy="28" r="0.5" fill="#aac" style="--d:4.1s;--dl:-2.3s" opacity=".6"/>
+<circle class="s" cx="88" cy="8" r="1.2" fill="#fff" style="--d:2.8s;--dl:-0.5s" opacity=".9"/>
+<circle class="s" cx="132" cy="22" r="0.6" fill="#cdf" style="--d:5.2s;--dl:-3.1s" opacity=".5"/>
+<circle class="s" cx="168" cy="14" r="0.9" fill="#fff" style="--d:3.7s;--dl:-1.8s" opacity=".8"/>
+<circle class="s" cx="205" cy="38" r="0.5" fill="#aac" style="--d:4.5s;--dl:-0.9s" opacity=".5"/>
+<circle class="s" cx="248" cy="18" r="1.5" fill="#fff" style="--d:2.3s;--dl:-1.5s" opacity=".95"/>
+<circle class="s" cx="292" cy="8" r="0.6" fill="#cdf" style="--d:6.1s;--dl:-2.8s" opacity=".5"/>
+<circle class="s" cx="338" cy="28" r="0.8" fill="#fff" style="--d:3.9s;--dl:-0.3s" opacity=".7"/>
+<circle class="s" cx="378" cy="12" r="0.5" fill="#aac" style="--d:5.5s;--dl:-3.5s" opacity=".5"/>
+<circle class="s" cx="420" cy="32" r="1.0" fill="#fff" style="--d:2.9s;--dl:-1.2s" opacity=".8"/>
+<circle class="s" cx="462" cy="15" r="0.6" fill="#cdf" style="--d:4.8s;--dl:-2.0s" opacity=".5"/>
+<circle class="s" cx="505" cy="28" r="0.8" fill="#fff" style="--d:3.4s;--dl:-0.7s" opacity=".7"/>
+<circle class="s" cx="548" cy="9" r="1.2" fill="#fff" style="--d:2.6s;--dl:-3.2s" opacity=".9"/>
+<circle class="s" cx="592" cy="22" r="0.5" fill="#aac" style="--d:5.8s;--dl:-1.6s" opacity=".5"/>
+<circle class="s" cx="635" cy="16" r="0.9" fill="#fff" style="--d:3.3s;--dl:-0.4s" opacity=".8"/>
+<circle class="s" cx="662" cy="38" r="0.6" fill="#cdf" style="--d:4.2s;--dl:-2.5s" opacity=".5"/>
+<circle class="s" cx="8" cy="58" r="0.7" fill="#fff" style="--d:4.0s;--dl:-1.3s" opacity=".7"/>
+<circle class="s" cx="22" cy="90" r="1.1" fill="#fff" style="--d:3.1s;--dl:-2.9s" opacity=".9"/>
+<circle class="s" cx="12" cy="122" r="0.5" fill="#aac" style="--d:5.3s;--dl:-0.6s" opacity=".5"/>
+<circle class="s" cx="38" cy="150" r="0.8" fill="#fff" style="--d:2.7s;--dl:-1.9s" opacity=".7"/>
+<circle class="s" cx="672" cy="62" r="0.7" fill="#fff" style="--d:4.3s;--dl:-0.8s" opacity=".7"/>
+<circle class="s" cx="660" cy="95" r="1.0" fill="#fff" style="--d:3.5s;--dl:-2.2s" opacity=".9"/>
+<circle class="s" cx="668" cy="130" r="0.5" fill="#cdf" style="--d:5.7s;--dl:-3.4s" opacity=".5"/>
+<circle class="s" cx="648" cy="155" r="0.8" fill="#fff" style="--d:2.5s;--dl:-1.0s" opacity=".7"/>
+<circle class="s" cx="28" cy="175" r="0.6" fill="#fff" style="--d:3.8s;--dl:-2.6s" opacity=".6"/>
+<circle class="s" cx="78" cy="182" r="0.9" fill="#fff" style="--d:4.6s;--dl:-1.4s" opacity=".8"/>
+<circle class="s" cx="138" cy="177" r="0.5" fill="#aac" style="--d:5.1s;--dl:-0.2s" opacity=".5"/>
+<circle class="s" cx="198" cy="184" r="0.7" fill="#fff" style="--d:3.2s;--dl:-3.0s" opacity=".7"/>
+<circle class="s" cx="258" cy="175" r="1.1" fill="#fff" style="--d:2.4s;--dl:-1.7s" opacity=".9"/>
+<circle class="s" cx="318" cy="182" r="0.5" fill="#cdf" style="--d:5.9s;--dl:-2.4s" opacity=".5"/>
+<circle class="s" cx="378" cy="177" r="0.8" fill="#fff" style="--d:3.6s;--dl:-0.5s" opacity=".7"/>
+<circle class="s" cx="438" cy="184" r="0.6" fill="#aac" style="--d:4.4s;--dl:-2.8s" opacity=".6"/>
+<circle class="s" cx="498" cy="176" r="0.9" fill="#fff" style="--d:2.8s;--dl:-1.1s" opacity=".8"/>
+<circle class="s" cx="558" cy="182" r="0.5" fill="#fff" style="--d:5.4s;--dl:-3.3s" opacity=".5"/>
+<circle class="s" cx="615" cy="178" r="1.2" fill="#fff" style="--d:3.0s;--dl:-0.9s" opacity=".9"/>
+<circle class="s" cx="655" cy="184" r="0.6" fill="#cdf" style="--d:4.7s;--dl:-2.1s" opacity=".6"/>
+<circle class="s" cx="45" cy="65" r="1.8" fill="#fff" style="--d:2.2s;--dl:-1.5s" opacity=".95"/>
+<circle class="s" cx="630" cy="72" r="1.6" fill="#fff" style="--d:2.9s;--dl:-0.3s" opacity=".95"/>
+<circle class="s" cx="72" cy="162" r="1.4" fill="#cdf" style="--d:3.8s;--dl:-2.2s" opacity=".9"/>
+<circle class="s" cx="610" cy="165" r="1.5" fill="#ffd" style="--d:4.2s;--dl:-1.8s" opacity=".9"/>
+<text x="340" y="68" font-family="'JetBrains Mono','Fira Code','Cascadia Code',monospace" font-size="34" font-weight="700" fill="#58A6FF" text-anchor="middle">Alex Baker</text>
+<text x="340" y="92" font-family="'JetBrains Mono','Fira Code',monospace" font-size="12" fill="#8b949e" text-anchor="middle" letter-spacing="0.8">Physics student · Astrophysics × AI · Stellar Spectroscopy</text>
+<rect x="75" y="108" width="530" height="15" fill="url(#sp)" opacity="0.9" rx="1"/>
+<rect x="94" y="108" width="2.5" height="15" fill="#0d1117" opacity="0.88"/>
+<rect x="100" y="108" width="2.5" height="15" fill="#0d1117" opacity="0.88"/>
+<rect x="227" y="108" width="2.5" height="15" fill="#0d1117" opacity="0.92"/>
+<rect x="271" y="108" width="2.5" height="15" fill="#0d1117" opacity="0.88"/>
+<rect x="374" y="108" width="3" height="15" fill="#0d1117" opacity="0.92"/>
+<rect x="470" y="108" width="3" height="15" fill="#0d1117" opacity="0.88"/>
+<text x="97" y="104" font-family="monospace" font-size="8.5" fill="#8899BB" text-anchor="middle">Ca II</text>
+<text x="229" y="104" font-family="monospace" font-size="8.5" fill="#88AADD" text-anchor="middle">Hβ</text>
+<text x="273" y="104" font-family="monospace" font-size="8.5" fill="#88BB99" text-anchor="middle">Mg b</text>
+<text x="376" y="104" font-family="monospace" font-size="8.5" fill="#DDCC77" text-anchor="middle">Na D</text>
+<text x="472" y="104" font-family="monospace" font-size="8.5" fill="#DD8888" text-anchor="middle">Hα</text>
+<line x1="75" y1="123" x2="605" y2="123" stroke="#333d46" stroke-width="0.5"/>
+<line x1="75" y1="123" x2="75" y2="128" stroke="#444d56" stroke-width="1"/>
+<line x1="340" y1="123" x2="340" y2="128" stroke="#444d56" stroke-width="1"/>
+<line x1="605" y1="123" x2="605" y2="128" stroke="#444d56" stroke-width="1"/>
+<text x="75" y="138" font-family="monospace" font-size="8.5" fill="#444d56" text-anchor="middle">380 nm</text>
+<text x="340" y="138" font-family="monospace" font-size="8.5" fill="#444d56" text-anchor="middle">565 nm</text>
+<text x="605" y="138" font-family="monospace" font-size="8.5" fill="#444d56" text-anchor="middle">750 nm</text>
+<text x="618" y="117" font-family="monospace" font-size="11" fill="#555d65" text-anchor="start" font-style="italic">λ</text>
+</svg>
