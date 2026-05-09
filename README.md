@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Typing SVG animated header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Alex+Baker+%E2%80%94+Physics+%C3%97+AI;Stellar+Spectroscopy+%2B+ML;Building+interpretable+astrophysics+tools)](https://git.io/typing-svg)
+<img src="./banner.svg" alt="Alex Baker — Stellar Spectroscopy × Interpretable ML" width="100%"/>
 
 <br/>
 
@@ -10,6 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-baker-5087ba1b6)
 [![AstroSpectro Docs](https://img.shields.io/badge/Docs-AstroSpectro-58A6FF?style=flat-square&logo=docusaurus&logoColor=white)](https://phd-brown.github.io/AstroSpectro/)
 [![Email](https://img.shields.io/badge/Email-alexbaker9581@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alexbaker9581@gmail.com)
+![Profile views](https://komarev.com/ghpvc/?username=PhD-Brown&style=flat-square&color=58A6FF&label=Profile+views)
 
 </div>
 
@@ -69,6 +69,20 @@
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=PhD-Brown&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+
+<br/>
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PhD-Brown&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PhD-Brown&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=1c3553&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
