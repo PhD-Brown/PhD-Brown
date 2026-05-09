@@ -8,6 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-baker-5087ba1b6)
 [![AstroSpectro Docs](https://img.shields.io/badge/Docs-AstroSpectro-58A6FF?style=flat-square&logo=docusaurus&logoColor=white)](https://phd-brown.github.io/AstroSpectro/)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--3242--1829-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-3242-1829)
 [![Email](https://img.shields.io/badge/Email-alexbaker9581@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alexbaker9581@gmail.com)
 ![Profile views](https://komarev.com/ghpvc/?username=PhD-Brown&style=flat-square&color=58A6FF&label=Profile+views)
 
@@ -87,13 +88,13 @@
 </div>
 
 <!-- 🐍 Contribution Snake — active si le GitHub Action ci-dessous est configuré -->
-<div align="center">
+<!-- <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PhD-Brown/PhD-Brown/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PhD-Brown/PhD-Brown/output/github-contribution-grid-snake.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/PhD-Brown/PhD-Brown/output/github-contribution-grid-snake.svg" />
 </picture>
-</div>
+</div> -->
 
 ---
 
@@ -117,7 +118,7 @@ My approach: treat ML not as a black box, but as a **scientific instrument** —
 
 > *Central finding of AstroSpectro:* SHAP values reveal that metallicity indicators (Ca II H&K, Mg b) are stronger classifiers than classical temperature proxies (Balmer lines) in LAMOST DR5 — a result that challenges MK classification assumptions and opens questions about feature-space physics.
 
-Targeting **M.Sc. applications ~November 2026** in astrophysics / astroinformatics.
+Targeting **M.Sc. applications ~November 2026** in astrophysics / astroinformatics & start in September 2027.
 
 ---
 
