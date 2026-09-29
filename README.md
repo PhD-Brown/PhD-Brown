@@ -71,21 +71,21 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=PhD-Brown&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
-<br/>
+<!-- <br/> -->
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PhD-Brown&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PhD-Brown&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-</div>
+<!-- </div> -->
 
 ---
 
 ## 📈 Activity
 
-<div align="center">
+<!-- <div align="center"> -->
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PhD-Brown&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=1c3553&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PhD-Brown&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=1c3553&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
-</div>
+<!-- </div> -->
 
 <!-- 🐍 Contribution Snake — active si le GitHub Action ci-dessous est configuré -->
 <div align="center">
