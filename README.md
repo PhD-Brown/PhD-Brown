@@ -111,15 +111,15 @@
 ---
 
 ## 🎓 Academic Direction
-
-I'm an undergraduate physics student working toward graduate research at the intersection of **astrophysics, scientific machine learning, and model interpretability**.
-
+ 
+I'm an undergraduate physics student working toward graduate research at the intersection of **physics, scientific machine learning, and model interpretability**, applied to complex, high-dimensional scientific data.
+ 
 My approach: treat ML not as a black box, but as a **scientific instrument** — one that should explain *why* it classifies, not just *how well*.
-
+ 
 > *Central finding of AstroSpectro:* SHAP values reveal that metallicity indicators (Ca II H&K, Mg b) are stronger classifiers than classical temperature proxies (Balmer lines) in LAMOST DR5 — a result that challenges MK classification assumptions and opens questions about feature-space physics.
-
-Targeting **M.Sc. applications ~November 2026** in astrophysics / astroinformatics & start in September 2027.
-
+ 
+Targeting **graduate research starting Fall 2027**, at the intersection of physics, machine learning, and large-scale scientific data.
+ 
 ---
 
 <div align="center">
