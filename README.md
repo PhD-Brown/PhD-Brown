@@ -7,7 +7,7 @@
 *Undergraduate physics student · Université Laval · he/him*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-baker-5087ba1b6)
-[![AstroSpectro Docs](https://img.shields.io/badge/Docs-AstroSpectro-58A6FF?style=flat-square&logo=docusaurus&logoColor=white)](https://phd-brown.github.io/AstroSpectro/)
+[![AstroSpectro Docs](https://img.shields.io/badge/Docs-AstroSpectro-58A6FF?style=flat-square&logo=docusaurus&logoColor=white)](https://phd-brown.github.io/research-docs/docs/astrospectro)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--3242--1829-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-3242-1829)
 [![Email](https://img.shields.io/badge/Email-alexbaker9581@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alexbaker9581@gmail.com)
 ![Profile views](https://komarev.com/ghpvc/?username=PhD-Brown&style=flat-square&color=58A6FF&label=Profile+views)
@@ -32,7 +32,7 @@
 - Fully reproducible — W&B tracked, 85+ runs logged
 
 [![Repo](https://img.shields.io/badge/GitHub-AstroSpectro-181717?style=flat-square&logo=github)](https://github.com/PhD-Brown/AstroSpectro)
-[![Docs](https://img.shields.io/badge/Docs-Live-58A6FF?style=flat-square&logo=docusaurus)](https://phd-brown.github.io/AstroSpectro/)
+[![Docs](https://img.shields.io/badge/Docs-Live-58A6FF?style=flat-square&logo=docusaurus)](https://phd-brown.github.io/research-docs/docs/astrospectro)
 
 ---
 
